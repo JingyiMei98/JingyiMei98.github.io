@@ -72,7 +72,7 @@ Thesis: Model-checking Linear-time Logic and Branching-time Logic on Quantum Con
 - *09/2016 – 06/2020* BSc in Computer Science and Technology, East China Normal University, China
 Thesis: Safety Analysis of Quantum Markov Chains
 
-# 💬 Talks and Presentation
+# 💬 Talks
 - *9/2025*, *Quantum Circuit Compilation with #SAT*, **Highlight 2025**, Saarbrücken, Germany.
 - *6/2025*, *Quantum Circuit Compilation with #SAT*, **2nd Workshop on Quantum Software (WQS 2025)**, Seoul, Korea.
 - *11/2024*, *Simulating Quantum Circuits with Weighted Model Counting*, **Kuldeep Meel Group Seminar**, online.
