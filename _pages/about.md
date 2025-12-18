@@ -20,7 +20,7 @@ redirect_from:
 I am a PhD candidate at Leiden University working at the intersection of Formal Methods and Quantum Computing. My research develops SAT/\#SAT-based techniques for quantum program compilation and verification, including simulation, equivalence checking, model checking, and synthesis. I am broadly interested in strengthening quantum software tooling through automated reasoning and formal methods.
 
 
-
+<!-- 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -53,4 +53,4 @@ I am a PhD candidate at Leiden University working at the intersection of Formal 
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Service
+# 💻 Service -->
